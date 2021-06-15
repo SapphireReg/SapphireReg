@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning software engineering.
 - 💞️ I’m looking to collaborate on any project that can help me build up my coding skills
 - 📫 You can reach me via email reginald.abellana@gmail.com
-- 📢 I am a self-taught graphic designer with 8+ years of experience. I'm currently on a pivot towards software engineering, which I am enjoying immensely.  
+- 📢 I am a self-taught graphic designer with 8+ years of experience. I'm currently studying software engineering, which I am enjoying immensely.  
 - 📢 I like learning new things, I am creative and a good technical thinker. 
 
 
