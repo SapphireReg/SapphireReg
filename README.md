@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SapphireReg
-- 🖥️ [Hackerrank Profile]https://www.hackerrank.com/reginald_abella1
+- 🖥️ [Hackerrank Profile](https://www.hackerrank.com/reginald_abella1)
 - 👀 I’m interested in tech, coding, solving problems, and learning new things.
 - 🌱 I’m currently learning software engineering.
 - 💞️ I’m looking to collaborate on any project that can help me build up my coding skills
