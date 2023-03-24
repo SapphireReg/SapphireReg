@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SapphireReg
 - 🖥️ [Hackerrank Profile](https://www.hackerrank.com/reginald_abella1)
-- 👀 I’m interested in tech, coding, solving problems, and learning new things.
+- 👀 I’m interested in tech, coding, cooking, and solving problems.
 - 🌱 In my last semester of studying Software Engineering at Wintec.
 - 💞️ I’m looking to collaborate on any project that can help me build up my coding skills
 - 📫 You can reach me via email reginald.abellana@gmail.com
